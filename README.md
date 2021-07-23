@@ -1,4 +1,4 @@
-# VVideo Chat (React)
+# Video Chat (React)
 
 A simple project that allows you to interact with people.
 
